@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 04:20:33.690 UTC</timestamp>
+  <md5sum>98653f0f39a3fa240dc94145ff2fbf95</md5sum>
+  <fileName>org.springframework.boot:spring-boot-autoconfigure-2.1.2.RELEASE.jar</fileName>
+  <usages>
+    <entry>
+      <string>demo-time/com.example:demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+    <entry>
+      <string>demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

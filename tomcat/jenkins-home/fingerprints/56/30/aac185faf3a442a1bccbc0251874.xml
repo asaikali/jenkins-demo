@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 04:20:33.632 UTC</timestamp>
+  <md5sum>5630aac185faf3a442a1bccbc0251874</md5sum>
+  <fileName>org.springframework:spring-test-5.1.4.RELEASE.jar</fileName>
+  <usages>
+    <entry>
+      <string>demo-time/com.example:demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+    <entry>
+      <string>demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

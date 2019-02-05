@@ -6,11 +6,11 @@
   <usages>
     <entry>
       <string>demo-time/com.example:demo-time</string>
-      <ranges>9-15</ranges>
+      <ranges>9-20</ranges>
     </entry>
     <entry>
       <string>demo-time</string>
-      <ranges>9-15</ranges>
+      <ranges>9-20</ranges>
     </entry>
   </usages>
   <facets/>

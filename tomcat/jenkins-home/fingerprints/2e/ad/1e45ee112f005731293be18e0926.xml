@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 04:20:33.576 UTC</timestamp>
+  <md5sum>2ead1e45ee112f005731293be18e0926</md5sum>
+  <fileName>org.springframework.boot:spring-boot-starter-thymeleaf-2.1.2.RELEASE.jar</fileName>
+  <usages>
+    <entry>
+      <string>demo-time/com.example:demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+    <entry>
+      <string>demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

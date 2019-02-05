@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 04:20:33.534 UTC</timestamp>
+  <md5sum>4b6cf88e33a5faf53f93290033f61d88</md5sum>
+  <fileName>org.apache.tomcat.embed:tomcat-embed-el-9.0.14.jar</fileName>
+  <usages>
+    <entry>
+      <string>demo-time/com.example:demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+    <entry>
+      <string>demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

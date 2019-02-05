@@ -63,15 +63,15 @@ APP_TEMP_ROUTE=adib-demo-time-$BUILD_NUMBER
 
 
 # Environment Settings
-ORG=ExploPaaS2016
-SPACE=jenkins
+ORG=Canada
+SPACE=demo-time
 DOMAIN=cfapps.io
 
 # target an environment where all the services are already defined 
 cf target -o $ORG -s $SPACE
 
 # push the application with a manifest that binds all required services 
-cf push $APP_NAME -p $APP_JAR -n $APP_TEMP_ROUTE -m 256M
+cf push $APP_NAME -p $APP_JAR -n $APP_TEMP_ROUTE -m 768M
 
 # Run Tests on the newly deployed app check that it is okay
 echo &quot;&quot;

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 04:37:35.889 UTC</timestamp>
+  <original>
+    <name>demo-time/com.example:demo-time</name>
+    <number>17</number>
+  </original>
+  <md5sum>531389c246c7175981875a5502d34bd4</md5sum>
+  <fileName>com.example:demo-time-0.0.1-SNAPSHOT.jar</fileName>
+  <usages>
+    <entry>
+      <string>demo-time/com.example:demo-time</string>
+      <ranges>17</ranges>
+    </entry>
+    <entry>
+      <string>demo-time</string>
+      <ranges>17</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

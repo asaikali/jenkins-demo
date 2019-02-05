@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 04:20:33.670 UTC</timestamp>
+  <md5sum>e9133fc2e219bd6c323168abd9092bc2</md5sum>
+  <fileName>org.springframework.boot:spring-boot-dependencies:spring-boot-dependencies-2.1.2.RELEASE.pom</fileName>
+  <usages>
+    <entry>
+      <string>demo-time/com.example:demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+    <entry>
+      <string>demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

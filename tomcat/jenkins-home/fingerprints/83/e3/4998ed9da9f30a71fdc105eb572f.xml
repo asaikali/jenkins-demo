@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 04:20:33.495 UTC</timestamp>
+  <original>
+    <name>demo-time/com.example:demo-time</name>
+    <number>16</number>
+  </original>
+  <md5sum>83e34998ed9da9f30a71fdc105eb572f</md5sum>
+  <fileName>com.example:demo-time:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>demo-time/com.example:demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+    <entry>
+      <string>demo-time</string>
+      <ranges>16-20</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
